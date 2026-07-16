@@ -55,7 +55,6 @@
 ```txt
 🏃 preparing for half marathon
 🚴 training for triathlon
-🛠️ working on Liebe
 ```
 
 ---
