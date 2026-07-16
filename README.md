@@ -16,9 +16,6 @@
 > [!NOTE]
 > 💻 Full-Stack Developer
 
-> [!IMPORTANT]
-> 🛠️ Currently building **Liebe**
-
 > [!WARNING]
 > 🏃 Training for a half marathon & triathlon
 
