@@ -11,13 +11,9 @@
 <!-- =========================
    RIGHT IMAGE (FLOAT STYLE)
 ========================= -->
-<img align="right" src="./images/zzz.gif" width="280" alt="zzz" />
 
 > [!NOTE]
 > 💻 Full-Stack Developer
-
-> [!WARNING]
-> 🏃 Training for a half marathon & triathlon
 
 > [!TIP]
 > 🤝 Open to collaborating — feel free to reach out!
@@ -43,19 +39,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
-
----
-
-<!-- =========================
-         NOW SECTION
-========================= -->
-
-## 📍 Now
-
-```txt
-🏃 preparing for half marathon
-🚴 training for triathlon
-```
 
 ---
 
